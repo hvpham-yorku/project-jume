@@ -44,5 +44,5 @@ Our goal is to build a **simple, user-friendly, and sacalable** soution for **sm
 ## Why This Project Matters  
 💡 **Prevents inventory shortages & overstocking** through real-time tracking.  
 💡 **Improves efficiency** by providing a centralized dashboard for stock management.  
-💡 **Reduces human error** with barcode scanning and automated alerts.  
+💡 **Reduces human error** with automated alerts.  
 💡 **Helps businesses scale** by offering supplier management and multi-warehouse tracking.  

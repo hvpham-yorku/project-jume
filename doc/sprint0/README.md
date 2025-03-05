@@ -4,6 +4,18 @@
 **SmartStock** is a **warehouse and inventory management system** designed to help businesses efficiently track, optimize, and manage their stock. The system is equipped with role-based access control, real-time stock updates, supplier management, order tracking, and more to streamline inventory and warehouse processes.
 
 ---
+## Motivation
+The **Inventory Management System** (IMS) was developed to help businesses efficiently manage and track their inventory, monitor stock levels, and automate reordering processes. Small and medium-sized businesses face challenges in managing their inventory manually, leading to errors, overstocking, and stockouts. This project aims to provide an easy-to-use, web-based solution that simplifies inventory management, increases operational efficiency, and reduces human error.
+
+Our goal is to create a system that:
+- Automates inventory tracking and management.
+- Provides real-time alerts for low stock levels.
+- Allows for user-friendly interactions for both admins and staff.
+- Ensures data accuracy with a simple user interface.
+
+The system can be integrated with external APIs to enable features like **inventory syncing** across multiple locations or sales channels.
+
+---
 
 ## **Product Backlog**
 

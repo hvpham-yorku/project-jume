@@ -5,7 +5,7 @@ The following checklist has been an agreed contract with the team to be followed
 
 ## **Checklist for Definition of Done**
 
-### **Implementation:**
+### **Feature Implementation:**
 
 - The feature is completely implemented according to the **client flow** and **its criteria**.
 - The feature integrates with **role-based access control (RBAC)** and maintains **data consistency**.
@@ -31,8 +31,8 @@ The following checklist has been an agreed contract with the team to be followed
 - **User help guides** (e.g., for stock updates, purchase orders, and reporting) are updated, if necessary.
 - **Database regulations** and **admissions permissions** are clearly outlined, if applicable.
 
-### **Acceptance Criteria:**
+### **Client's Criteria:**
 
-- All **acceptance criteria** outlined in the user story are met.
+- All **criteria** outlined in the client flow are met.
 - The designated **reviewer have approved the feature.
-- The feature is **successfully deployed to the test/staging environment and does not break existing functionality**..
+- The feature is **successfully deployed to the test/staging environment and does not break existing functionality or integrations**.

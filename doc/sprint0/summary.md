@@ -17,8 +17,8 @@ Our goal is to build a **simple, user-friendly, and sacalable** soution for **sm
 
 **Managing Stock Levels** -> Add, remove, or update products in real-time.<br /> 
 **Low-Stock Alerts** -> Get notified when inventory is running low.<br /> 
-**Supplier & Purchase Order Information** -> Vendor details.<br /> 
-**Inventory Reports & Analytics** → Produce a formatted history and report on stock levels and important information.<br /> 
+**Supplier Information** -> Vendor details.<br /> 
+**Inventory Reports & Analytics** → Produce a formatted report on stock levels and important information.<br /> 
 **Role-Based Access Control** -> Admins, managers, and employees have different permissions.
 
 ---

@@ -1,7 +1,7 @@
 # Team Members
 
 ## 📌 About
-This document lists the members of our development team for Sprint 0.
+This document lists the members of our development team for this Project.
 
 ## 👥 Team Roster
 
